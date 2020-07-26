@@ -34,7 +34,7 @@ This list is from the **Game Development in Rust** Discord server ([Invitation l
 
 - [fermium](https://docs.rs/fermium) Raw bindings to the C SDL2 library.
 - [glfw](https://docs.rs/glfw) Rusty wrapper for the C GLFW3 library.
-- [sdl2](https://docs.rs/sdl2) Rusty for the C SDL2 library.
+- [sdl2](https://docs.rs/sdl2) Rusty wrapper for the C SDL2 library.
 - [winit](https://docs.rs/winit) Rusty windowing framework.
 
 ## Frameworks for ECS
