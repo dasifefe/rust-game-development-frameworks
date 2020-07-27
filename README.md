@@ -12,7 +12,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 - [coffee](https://docs.rs/coffee) 2D. Graphics.
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
-- [oxyengine](https://docs.rs/oxyengine) 2D. Graphics, audio.
+- [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
 - [quicksilver](https://docs.rs/quicksilver) 2D. Graphics, audio.
 - [tetra](https://docs.rs/tetra) 2D. Graphics, audio.
 
