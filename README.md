@@ -27,7 +27,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 - [glow](https://docs.rs/glow) Low-level. Safer wrapper for OpenGL and WebGL.
 - [luminance](https://docs.rs/luminance) High level. Uses OpenGL.
 - [miniquad](https://docs.rs/miniquad) High-level. Focus on portability. Uses OpenGL and Metal (Work-in-progress).
-- [rendy](https://docs.rs/rendy) High-level. Uses Gfx-hal. Used by `amethyst`.
+- [rendy](https://docs.rs/rendy) High-level. Uses `gfx-hal`. Used by `amethyst`.
 - [vulkano](https://docs.rs/vulkano) Low-level. Safer wrapper for Vulkan.
 - [wgpu](https://docs.rs/wgpu) High-level. Uses `gfx-hal`.
 
