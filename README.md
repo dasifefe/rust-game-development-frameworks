@@ -12,7 +12,7 @@ This list is from the **Game Development in Rust** Discord server ([Invitation l
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
 - [oxyengine](https://docs.rs/oxyengine) 2D. Graphics, audio.
-- [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio. Aims to be a full engine.
+- [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
 - [quicksilver](https://docs.rs/quicksilver) 2D. Graphics, audio.
 
 ## Just graphics
