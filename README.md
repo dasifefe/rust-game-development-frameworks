@@ -2,18 +2,18 @@
 
 Here’s some crate suggestions to get you started! All sections are sorted strictly alphabetically by crate name.
 
-This list prioritizes frameworks that have examples and are ready or almost ready for production. For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
+This list is from the **Game Development in Rust** Discord server ([Invitation link](https://discord.gg/yNtPTb2)) and prioritizes frameworks that have examples and are ready or almost ready for production.
 
-This list is from the **Game Development in Rust** Discord server ([Invitation link](https://discord.gg/yNtPTb2)).
+For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
 ## High-level frameworks for game development
 
-- [tetra](https://docs.rs/tetra) 2D. Graphics, audio.
+- [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
 - [oxyengine](https://docs.rs/oxyengine) 2D. Graphics, audio.
-- [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
 - [quicksilver](https://docs.rs/quicksilver) 2D. Graphics, audio.
+- [tetra](https://docs.rs/tetra) 2D. Graphics, audio.
 
 ## Just graphics
 
@@ -29,6 +29,10 @@ This list is from the **Game Development in Rust** Discord server ([Invitation l
 - [rendy](https://docs.rs/rendy) High-level. Uses Gfx-hal. Used by Amethyst.
 - [vulkano](https://docs.rs/vulkano) Low-level. Safer wrapper for Vulkan.
 - [wgpu](https://docs.rs/wgpu) High-level. Uses Gfx-hal.
+
+## Font (parser and/or rasterizer)
+
+- [fontdue](https://docs.rs/fontdue)
 
 ## Window creation and OS integration
 
