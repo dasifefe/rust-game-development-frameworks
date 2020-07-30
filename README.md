@@ -33,7 +33,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 ## Font (parser and/or rasterizer)
 
-- [fontdue](https://docs.rs/fontdue)
+- [fontdue](https://docs.rs/fontdue) Pure Rust. No `std` dependency.
 
 ## Window creation and OS integration
 
