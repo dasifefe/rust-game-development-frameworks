@@ -2,7 +2,7 @@
 
 Here’s some crate suggestions to get you started!
 
-This curated list is from the **Game Development in Rust** Discord server ([Invitation link](https://discord.gg/yNtPTb2)) and prioritizes frameworks that have examples and are ready or almost ready for production.
+This curated list is from the **Game Development in Rust** Discord server ([Invitation link](https://discord.gg/yNtPTb2)) and prioritizes frameworks that have examples and are ready or almost ready for production. This list was made so it can be shared with beginners.
 
 For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
