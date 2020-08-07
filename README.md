@@ -1,6 +1,6 @@
 # What framework to use for X?
 
-Here’s some crate suggestions to get you started! All sections are sorted strictly alphabetically by crate name.
+Here’s some crate suggestions to get you started!
 
 This list is from the **Game Development in Rust** Discord server ([Invitation link](https://discord.gg/yNtPTb2)) and prioritizes frameworks that have examples and are ready or almost ready for production.
 
@@ -35,13 +35,13 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 ## Window creation and OS integration
 
 - [winit](https://docs.rs/winit) Rusty windowing framework.
-- [fermium](https://docs.rs/fermium) Raw bindings to the C SDL2 library.
-- [glfw](https://docs.rs/glfw) Rusty wrapper for the C GLFW3 library.
-- [sdl2](https://docs.rs/sdl2) Rusty wrapper for the C SDL2 library.
+- [glfw](https://docs.rs/glfw) Rust wrapper for the C GLFW3 library.
+- [fermium](https://docs.rs/fermium) Rust wrapper for the C SDL2 library. Contains more than window creation features.
+- [sdl2](https://docs.rs/sdl2) Rust wrapper for the C SDL2 library. Contains more than window creation features.
 
 ## Frameworks for ECS
 
-- [hecs](https://docs.rs/hecs)
+- [hecs](https://docs.rs/hecs) Minimalist, ergonomic API without performance compromises.
 - [legion](https://docs.rs/legion)
 - [shipyard](https://docs.rs/shipyard)
 - [specs](https://docs.rs/specs)
@@ -61,6 +61,6 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 ## Audio
 
-- [alto](https://docs.rs/alto) Wrapper for OpenAL.
-- [openal](https://docs.rs/openal) Wrapper for OpenAL.
+- [alto](https://docs.rs/alto) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
+- [openal](https://docs.rs/openal) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
 - [rodio](https://docs.rs/rodio)
