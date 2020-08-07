@@ -1,6 +1,6 @@
 # What framework to use for X?
 
-## ![Community Icon](./community-icon.png) [Invitation link to the **Game Development in Rust** Discord server](https://discord.gg/yNtPTb2)
+## ![Community Icon](./community-icon.png) [Invitation link to the ***Game Development in Rust*** Discord server](https://discord.gg/yNtPTb2)
 
 This curated list is from the **Game Development in Rust** Discord server and prioritizes frameworks that have examples and are ready or almost ready for production. This list was made so it can be shared with beginners.
 
