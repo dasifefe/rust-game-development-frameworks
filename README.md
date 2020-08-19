@@ -61,7 +61,6 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 ## Space Partitioning 
 
-
 - [rstar](https://docs.rs/crate/rstar/) n-dimensional [r*-tree](https://en.wikipedia.org/wiki/R*_tree) implementation
 - [bvh](https://docs.rs/crate/bvh/) Bounding Volume Hierarchy, built on top of [nalgebra](https://www.nalgebra.org/).
 - [kdtree](https://docs.rs/crate/kdtree/) K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
