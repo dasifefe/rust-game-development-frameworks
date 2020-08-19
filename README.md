@@ -59,6 +59,17 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 - [fontdue](https://docs.rs/fontdue) Pure Rust. No `std` dependency.
 
+## Space Partitioning 
+
+
+- [rstar](https://docs.rs/crate/rstar/) n-dimensional [r*-tree](https://en.wikipedia.org/wiki/R*_tree) implementation
+- [bvh](https://docs.rs/crate/bvh/) Bounding Volume Hierarchy, built on top of [nalgebra](https://www.nalgebra.org/).
+- [kdtree](https://docs.rs/crate/kdtree/) K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+- **ncollide** has its own Bounding Volume Tree implementation: [3d docs](https://www.ncollide.org/rustdoc/ncollide3d/partitioning/struct.BVT.html) and [2d docs](https://www.ncollide.org/rustdoc/ncollide2d/partitioning/struct.BVT.html).
+- [spade](https://docs.rs/crate/spade/) Implements  [r*-tree](https://en.wikipedia.org/wiki/R*_tree) and [delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation).
+- [flat_spatial](https://docs.rs/crate/flat_spatial/) Simple flat structures such as a grid/hashmap of cells.
+- [acacia](https://docs.rs/crate/acacia/)  Generic over the dimension of the partitioned space and thus supports binary trees, quadtrees, octrees, etc.
+
 ## Audio
 
 - [alto](https://docs.rs/alto) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
