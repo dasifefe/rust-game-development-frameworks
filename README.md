@@ -59,14 +59,15 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 - [shipyard](https://docs.rs/shipyard)
 - [specs](https://docs.rs/specs)
 
-## Frameworks for linear math (for 2D and 3D programming) and physics
+## Frameworks for physics and linear math (for 2D and 3D programming)
 
 - [cgmath](https://docs.rs/cgmath)
 - [glam](https://docs.rs/glam)
 - [nalgebra](https://docs.rs/nalgebra)
-- [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d)
 - [ultraviolet](https://docs.rs/ultraviolet)
 - [vek](https://docs.rs/vek)
+- [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
+- [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 
 ## Font (parser and/or rasterizer)
 
