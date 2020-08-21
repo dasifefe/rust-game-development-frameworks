@@ -6,9 +6,22 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
+## Resources to understand ECS (Entity Compoent System) and DOD (Data-Oriented Design)
+
+- [Understanding data-oriented design for entity component systems - Unity at GDC 2019](https://www.youtube.com/watch?v=0_Byw9UMn9g).
+- [CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”](https://www.youtube.com/watch?v=yy8jQgmhbAU) - Harsh title (ECS/DOD is not a silver bullet for every problem), but useful regardless.
+- [RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West](https://www.youtube.com/watch?v=aKLntZcp27M) - A classic presentation already - Catherine West gives several examples, explain the problems with them, and shows the alternatives.
+- [Data-Oriented Design by Richard Fabian](https://dataorienteddesign.com/dodbook).
+
+## Productivity tools for game development
+
+- [Blender](https://www.blender.org) for 3D modeling.
+- [Krita](https://krita.org/en) for 2D image creation.
+
 ## High-level frameworks for game development
 
 - [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
+- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented.
 - [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
@@ -59,7 +72,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 - [fontdue](https://docs.rs/fontdue) Pure Rust. No `std` dependency.
 
-## Space Partitioning 
+## Space partitioning 
 
 - [rstar](https://docs.rs/crate/rstar/) n-dimensional [r*-tree](https://en.wikipedia.org/wiki/R*_tree) implementation
 - [bvh](https://docs.rs/crate/bvh/) Bounding Volume Hierarchy, built on top of [nalgebra](https://www.nalgebra.org/).
