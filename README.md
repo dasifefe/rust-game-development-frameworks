@@ -11,7 +11,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 - [Understanding data-oriented design for entity component systems - Unity at GDC 2019](https://www.youtube.com/watch?v=0_Byw9UMn9g).
 - [CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”](https://www.youtube.com/watch?v=yy8jQgmhbAU) - Harsh title (ECS/DOD is not a silver bullet for every problem), but useful regardless.
 - [RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West](https://www.youtube.com/watch?v=aKLntZcp27M) - A classic presentation already - Catherine West gives several examples, explain the problems with them, and shows the alternatives.
-- [Data-Oriented Design by Richard Fabian](https://dataorienteddesign.com/dodbook).
+- ["Data-Oriented Design" web book by Richard Fabian](https://dataorienteddesign.com/dodbook).
 
 ## Productivity tools for game development
 
