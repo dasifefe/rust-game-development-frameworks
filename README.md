@@ -28,7 +28,7 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
 - [quicksilver](https://docs.rs/quicksilver) 2D. Graphics, audio.
-- [tetra](https://docs.rs/tetra) 2D. Graphics, audio.
+- [tetra](https://docs.rs/tetra) 2D. Graphics, audio. Inspired on XNA and MonoGame.
 - [coffee](https://docs.rs/coffee) 2D. Graphics.
 
 ## Just graphics
