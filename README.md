@@ -6,7 +6,7 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
-## Resources to understand ECS (Entity Compoent System) and DOD (Data-Oriented Design)
+## Resources to understand ECS (Entity Component System) and DOD (Data-Oriented Design)
 
 ECS/DOD is quite a big deal in Rust. Here are some resources to understand the basics:
 
