@@ -71,6 +71,12 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 - [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
 - [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 
+## Graphical user interface (GUI)
+
+- [egui](https://docs.rs/egui/) Pure Rust cross-platform library.
+- [iced](https://docs.rs/iced/) Pure Rust cross-platform library.
+- [imgui](https://docs.rs/imgui/) Bindings in Rust for the Dear ImGui C++ library.
+
 ## Font (parser and/or rasterizer)
 
 - [fontdue](https://docs.rs/fontdue) Pure Rust. No `std` dependency.
