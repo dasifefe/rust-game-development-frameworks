@@ -14,7 +14,7 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 - [Cargo book - A book on Rust’s package manager and build system](https://doc.rust-lang.org/cargo/index.html).
 - [Rustdoc book - Learn how to make awesome documentation for your crate](https://doc.rust-lang.org/rustdoc/index.html).
 - [Rustc book - Familiarize yourself with the knobs available in the Rust compiler](https://doc.rust-lang.org/rustc/index.html).
-- [Compiler error index - In-depth explanations of the errors you may see from the Rust compiler](https://doc.rust-lang.org/rustc/index.html).
+- [Compiler error index - In-depth explanations of the errors you may see from the Rust compiler](https://doc.rust-lang.org/error-index.html).
 
 
 ## Resources to understand ECS (Entity Component System) and DOD (Data-Oriented Design)
