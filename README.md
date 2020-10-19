@@ -8,13 +8,13 @@ For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs)
 
 ## Rust basics
 
-- [Rust book](https://doc.rust-lang.org/book/)
-- [Standard library - Comprehensive guide to the Rust standard library APIs](https://doc.rust-lang.org/std/index.html)
-- [Edition guide - Guide to the Rust editions](https://doc.rust-lang.org/edition-guide/index.html)
-- [Cargo book - A book on Rust’s package manager and build system](https://doc.rust-lang.org/cargo/index.html)
-- [Rustdoc book - Learn how to make awesome documentation for your crate](https://doc.rust-lang.org/rustdoc/index.html)
-- [Rustc book - Familiarize yourself with the knobs available in the Rust compiler](https://doc.rust-lang.org/rustc/index.html)
-- [Compiler error index - In-depth explanations of the errors you may see from the Rust compiler](https://doc.rust-lang.org/rustc/index.html)
+- [Rust book](https://doc.rust-lang.org/book/).
+- [Standard library - Comprehensive guide to the Rust standard library APIs](https://doc.rust-lang.org/std/index.html).
+- [Edition guide - Guide to the Rust editions](https://doc.rust-lang.org/edition-guide/index.html).
+- [Cargo book - A book on Rust’s package manager and build system](https://doc.rust-lang.org/cargo/index.html).
+- [Rustdoc book - Learn how to make awesome documentation for your crate](https://doc.rust-lang.org/rustdoc/index.html).
+- [Rustc book - Familiarize yourself with the knobs available in the Rust compiler](https://doc.rust-lang.org/rustc/index.html).
+- [Compiler error index - In-depth explanations of the errors you may see from the Rust compiler](https://doc.rust-lang.org/rustc/index.html).
 
 
 ## Resources to understand ECS (Entity Component System) and DOD (Data-Oriented Design)
