@@ -105,5 +105,6 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 ## Audio
 
 - [alto](https://docs.rs/alto) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
+- [kira](https://docs.rs/kira) Library for expressive and dynamic game audio.
 - [openal](https://docs.rs/openal) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
 - [rodio](https://docs.rs/rodio)
