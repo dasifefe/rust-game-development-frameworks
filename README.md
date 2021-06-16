@@ -67,10 +67,40 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 
 ## Frameworks for ECS
 
-- [hecs](https://docs.rs/hecs) Minimalist, ergonomic API without performance compromises.
-- [legion](https://docs.rs/legion)
-- [shipyard](https://docs.rs/shipyard)
-- [specs](https://docs.rs/specs)
+- [hecs](https://docs.rs/hecs) Archetype-based.
+- [legion](https://docs.rs/legion) Archetype-based.
+- [shipyard](https://docs.rs/shipyard) Sparse-based.
+- [specs](https://docs.rs/specs) Bitset-based.
+
+These are the types of ECS ([as described in this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-different-ways-to-implement-an-ecs)):
+
+> #### What are the different ways to implement an ECS?
+>
+> There are many different ways in which to implement an ECS, each with different tradeoffs. This non exhaustive list contains some of the more popular approaches:
+>
+> #### Archetypes (aka "Dense ECS" or "Table based ECS")
+>
+> An archetype ECS stores entities in tables, where components are columns and entities are rows. Archetype implementations are fast to query and iterate.
+>
+> Examples of archetype implementations are Flecs, Our Machinery, Unity DOTS, Unreal Sequencer, Bevy ECS, Legion and Hecs.
+>
+> #### Sparse set ECS (aka "Sparse ECS")
+>
+> A sparse set based ECS stores each component in its own sparse set which is has the entity id as key. Sparse set implementations allow for fast add/remove operations.
+> 
+> Examples of sparse set implementations are EnTT and Shipyard.
+>
+> #### Bitset based ECS
+>
+> A bitset-based ECS stores components in arrays where the entity id is used as index, and uses a bitset to indicate if an entity has a specific component. Different flavors of bitset-based approaches exist. One approach is to have an array for each component with an accompanying bitset to indicate which entities have the component. Another approach uses the hibitset data structure (see link).
+>
+> Examples of bitset implementations are EntityX and Specs.
+>
+> #### Reactive ECS
+>
+> A reactive ECS uses signals resulting from entity mutations to keep track of which entities match systems/queries.
+>
+> An example of a reactive ECS is Entitas.
 
 ## Frameworks for physics and linear math (for 2D and 3D programming)
 
