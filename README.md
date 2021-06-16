@@ -34,7 +34,7 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 ## High-level frameworks for game development
 
 - [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
-- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented.
+- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented. [Tutorials on the Bevy engine](https://bevy-cheatbook.github.io/).
 - [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
 - [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
