@@ -120,7 +120,8 @@ These are the types of ECS ([as described in this repository](https://github.com
 
 ## Font (parser and/or rasterizer)
 
-- [fontdue](https://docs.rs/fontdue) Pure Rust. No `std` dependency.
+- [fontdue](https://docs.rs/fontdue)
+- [swash](https://github.com/dfrg/swash)
 
 ## Space partitioning 
 
