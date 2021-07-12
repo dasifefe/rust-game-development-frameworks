@@ -128,7 +128,8 @@ These are the types of ECS ([as described in this repository](https://github.com
 - [rstar](https://docs.rs/crate/rstar/) n-dimensional [r*-tree](https://en.wikipedia.org/wiki/R*_tree) implementation
 - [bvh](https://docs.rs/crate/bvh/) Bounding Volume Hierarchy, built on top of [nalgebra](https://www.nalgebra.org/).
 - [kdtree](https://docs.rs/crate/kdtree/) K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
-- **ncollide** has its own Bounding Volume Tree implementation: [3d docs](https://www.ncollide.org/rustdoc/ncollide3d/partitioning/struct.BVT.html) and [2d docs](https://www.ncollide.org/rustdoc/ncollide2d/partitioning/struct.BVT.html).
+- [ncollide 2D](https://docs.rs/crate/ncollide2d/) Bounding Volume Tree implementation [(2d documentation)](https://www.ncollide.org/rustdoc/ncollide2d/partitioning/struct.BVT.html).
+- [ncollide 3D](https://docs.rs/crate/ncollide3d/) Bounding Volume Tree implementation [(3d documentation)](https://www.ncollide.org/rustdoc/ncollide3d/partitioning/struct.BVT.html).
 - [spade](https://docs.rs/crate/spade/) Implements  [r*-tree](https://en.wikipedia.org/wiki/R*_tree) and [delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation).
 - [flat_spatial](https://docs.rs/crate/flat_spatial/) Simple flat structures such as a grid/hashmap of cells.
 - [acacia](https://docs.rs/crate/acacia/)  Generic over the dimension of the partitioned space and thus supports binary trees, quadtrees, octrees, etc.
@@ -139,3 +140,9 @@ These are the types of ECS ([as described in this repository](https://github.com
 - [kira](https://docs.rs/kira) Library for expressive and dynamic game audio.
 - [openal](https://docs.rs/openal) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
 - [rodio](https://docs.rs/rodio)
+
+## Other utilities
+
+- [pathfinding](https://docs.rs/pathfinding) Multiple implementations of path-finding algorithms.
+- [salva2d](https://docs.rs/salva2d) / [salva3d](https://docs.rs/salva3d) Particle-based fluid dynamics.
+- [collider](https://docs.rs/collider) Continuous 2D collision detection.
