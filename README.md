@@ -130,6 +130,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 ## Other utilities
 
 - [image](https://docs.rs/image) Image encoding and decoding for many image formats.
+- [palette](https://docs.rs/palette) Linear color calculations.
 - [pathfinding](https://docs.rs/pathfinding) Multiple implementations of path-finding algorithms.
 - [salva2d](https://docs.rs/salva2d) / [salva3d](https://docs.rs/salva3d) Particle-based fluid dynamics.
 - [collider](https://docs.rs/collider) Continuous 2D collision detection.
