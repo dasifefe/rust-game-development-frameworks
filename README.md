@@ -129,6 +129,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Other utilities
 
+- [serde](https://docs.rs/serde) / [serde-json](https://crates.io/crates/serde_json) SerializE and deserialize data structures efficiently and generically.
 - [image](https://docs.rs/image) Image encoding and decoding for many image formats.
 - [palette](https://docs.rs/palette) Linear color calculations.
 - [pathfinding](https://docs.rs/pathfinding) Multiple implementations of path-finding algorithms.
