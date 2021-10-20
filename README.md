@@ -43,7 +43,7 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 
 ## Graphics-only
 
-- [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
+- ⭐ [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
 - [rend3](https://docs.rs/rend3) Easy to use, customizable, efficient 3D renderer library built on `wgpu`.
 - [luminance](https://docs.rs/luminance) High level. Uses OpenGL.
 - [miniquad](https://docs.rs/miniquad) High-level. Focus on portability. Uses OpenGL, GLES 3 and WebGl1.
@@ -73,15 +73,15 @@ This is the current state of WGPU:
 
 ## Window creation and OS integration
 
-- [winit](https://docs.rs/winit) Rusty windowing framework.
+- ⭐ [winit](https://docs.rs/winit) Rusty windowing framework.
 - [glfw](https://docs.rs/glfw) Rust wrapper for the C GLFW3 library.
 - [fermium](https://docs.rs/fermium) Rust wrapper for the C SDL2 library. Contains more than window creation features.
 - [sdl2](https://docs.rs/sdl2) Rust wrapper for the C SDL2 library. Contains more than window creation features.
 
 ## Frameworks for ECS
 
-- [hecs](https://docs.rs/hecs) Archetype-based.
-- [yaks](https://docs.rs/yaks) Add multi-threading to `hecs`.
+- ⭐ [hecs](https://docs.rs/hecs) Archetype-based.
+- ⭐ [yaks](https://docs.rs/yaks) Add multi-threading to `hecs`.
 - [legion](https://docs.rs/legion) Archetype-based.
 - [shipyard](https://docs.rs/shipyard) Sparse-based.
 - [specs](https://docs.rs/specs) Bitset-based.
@@ -90,18 +90,18 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Frameworks for physics and linear math (for 2D and 3D programming)
 
+- ⭐ [glam](https://docs.rs/glam)
+- ⭐ [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
+- ⭐ [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 - [cgmath](https://docs.rs/cgmath)
-- [glam](https://docs.rs/glam)
 - [nalgebra](https://docs.rs/nalgebra)
 - [ultraviolet](https://docs.rs/ultraviolet)
 - [vek](https://docs.rs/vek)
-- [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
-- [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 
 ## Graphical user interface (GUI)
 
-- [egui](https://docs.rs/egui/) Pure Rust cross-platform library.
-- [iced](https://docs.rs/iced/) Pure Rust cross-platform library.
+- ⭐ [egui](https://docs.rs/egui/) Pure Rust cross-platform library. Many renderers already have an integration with `Egui`.
+- ⭐ [iced](https://docs.rs/iced/) Pure Rust cross-platform library.
 - [imgui](https://docs.rs/imgui/) Bindings in Rust for the Dear ImGui C++ library.
 
 ## Font (parser and/or rasterizer)
@@ -129,10 +129,10 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Other utilities
 
-- [serde](https://docs.rs/serde) / [serde-json](https://crates.io/crates/serde_json) SerializE and deserialize data structures efficiently and generically.
-- [image](https://docs.rs/image) Image encoding and decoding for many image formats.
+- ⭐ [serde](https://docs.rs/serde) / [serde-json](https://crates.io/crates/serde_json) SerializE and deserialize data structures efficiently and generically.
+- ⭐ [image](https://docs.rs/image) Image encoding and decoding for many image formats.
+- ⭐ [rayon](https://docs.rs/rayon) Introduce parallelism into existing code and guarantees data-race free executions.
 - [palette](https://docs.rs/palette) Linear color calculations.
 - [pathfinding](https://docs.rs/pathfinding) Multiple implementations of path-finding algorithms.
 - [salva2d](https://docs.rs/salva2d) / [salva3d](https://docs.rs/salva3d) Particle-based fluid dynamics.
 - [collider](https://docs.rs/collider) Continuous 2D collision detection.
-- [rayon](https://docs.rs/rayon) Introduce parallelism into existing code and guarantees data-race free executions.
