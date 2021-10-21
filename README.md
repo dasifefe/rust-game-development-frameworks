@@ -6,9 +6,6 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
-Status:
-⭐ - Crates extremely well maintained and widely used by the community.
-
 ## Rust basics
 
 - [Rust book](https://doc.rust-lang.org/book/).
