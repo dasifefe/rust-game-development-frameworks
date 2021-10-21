@@ -6,6 +6,9 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
+Status:
+⭐ - Crates extremely well maintained and widely used by the community.
+
 ## Rust basics
 
 - [Rust book](https://doc.rust-lang.org/book/).
@@ -92,7 +95,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 - ⭐ [glam](https://docs.rs/glam)
 - ⭐ [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
-- ⭐ [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
+- [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 - [cgmath](https://docs.rs/cgmath)
 - [nalgebra](https://docs.rs/nalgebra)
 - [ultraviolet](https://docs.rs/ultraviolet)
