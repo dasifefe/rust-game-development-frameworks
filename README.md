@@ -116,11 +116,12 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Audio
 
-- [oddio](https://docs.rs/oddio) Lightweight audio library.
-- [alto](https://docs.rs/alto) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
-- [kira](https://docs.rs/kira) Library for expressive and dynamic game audio.
-- [openal](https://docs.rs/openal) Wrapper for OpenAL. Hardly any further development expected, as OpenAL is a well established library.
-- [rodio](https://docs.rs/rodio)
+- ⭐ [oddio](https://docs.rs/oddio) Built on top of `cpal`.
+- ⭐ [kira](https://docs.rs/kira) Built on top of `cpal`.
+- ⭐ [rodio](https://docs.rs/rodio) Built on top of `cpal`.
+- [alto](https://docs.rs/alto) Wrapper for OpenAL.
+- [openal](https://docs.rs/openal) Wrapper for OpenAL.
+- ⭐ [cpal] Low-level cross-platform library for audio input and output.
 
 ## Other utilities
 
