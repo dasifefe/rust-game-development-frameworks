@@ -38,7 +38,7 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 
 ## Full-feature or near full-feature game engines
 
-- ⭐ [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented. [Free and online cheat book for the Bevy engine](https://bevy-cheatbook.github.io/).
+- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented. [Free and online cheat book for the Bevy engine](https://bevy-cheatbook.github.io/).
 - [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
 - [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
