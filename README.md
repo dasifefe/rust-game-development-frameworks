@@ -47,7 +47,12 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 
 ## Graphics-only
 
-- ⭐ [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU). [Tutorial here](https://sotrh.github.io/learn-wgpu).
+- ⭐ [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
+  
+  [WebGPU specification here](https://www.w3.org/TR/webgpu).
+  
+  [Tutorial here](https://sotrh.github.io/learn-wgpu).
+
 - ⭐ [ash](https://docs.rs/ash) Low-level bindings to Vulkan.
 - ⭐ [lyon](https://docs.rs/lyon) GPU-based 2D vector rendering. Built on top of `wgpu`.
 - [rend3](https://docs.rs/rend3) Easy to use, customizable, efficient 3D renderer library. Built on top of `wgpu`.
