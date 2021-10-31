@@ -38,7 +38,10 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 
 ## Full-feature or near full-feature game engines
 
-- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented. [Free and online cheat book for the Bevy engine](https://bevy-cheatbook.github.io/).
+- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented.
+
+  [Free and online cheat book for the Bevy engine](https://bevy-cheatbook.github.io/).
+
 - [amethyst](https://docs.rs/amethyst) 2D, 3D. Graphics, audio.
 - [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
 - [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
@@ -90,7 +93,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 ## Frameworks for physics and linear math (for 2D and 3D programming)
 
 - ⭐ [glam](https://docs.rs/glam)
-- ⭐ [rapier](https://rapier.rs) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
+- ⭐ [rapier2d](https://docs.rs/rapier2d) / [rapier3d](https://docs.rs/rapier3d) New 2D/3D physics framework from the creator of `nphysics2D`/`nphysics3D`. [2D demo](https://rapier.rs/demos2d/index.html) and [3D demo](https://rapier.rs/demos3d/index.html).
 - [nphysics2d](https://docs.rs/nphysics2d) / [nphysics3d](https://docs.rs/nphysics3d) 2D/3D physics.
 - [cgmath](https://docs.rs/cgmath)
 - [nalgebra](https://docs.rs/nalgebra)
@@ -129,13 +132,18 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 - ⭐ [oddio](https://docs.rs/oddio) Built on top of `cpal`.
 - ⭐ [kira](https://docs.rs/kira) Built on top of `cpal`.
 - ⭐ [rodio](https://docs.rs/rodio) Built on top of `cpal`.
+- ⭐ [cpal](https://docs.rs/cpal) Low-level cross-platform library for audio input and output.
 - [alto](https://docs.rs/alto) Wrapper for OpenAL.
 - [openal](https://docs.rs/openal) Wrapper for OpenAL.
-- ⭐ [cpal](https://docs.rs/cpal) Low-level cross-platform library for audio input and output.
+
+## Serialization-Deserialization
+
+- ⭐ [serde](https://docs.rs/serde) Serialize and deserialize data structures efficiently and generically.
+- ⭐ [serde-json](https://crates.io/crates/serde_json) Serialize and deserialize for **JSON format**. Built on top of `serde`.
+- ⭐ [bincode](https://crates.io/crates/bincode) Serialize and deserialize for **binary format**. Built on top of `serde`.
 
 ## Other utilities
 
-- ⭐ [serde](https://docs.rs/serde) / [serde-json](https://crates.io/crates/serde_json) SerializE and deserialize data structures efficiently and generically.
 - ⭐ [image](https://docs.rs/image) Image encoding and decoding for many image formats.
 - ⭐ [rayon](https://docs.rs/rayon) Introduce parallelism into existing code and guarantees data-race free executions.
 - ⭐ [palette](https://docs.rs/palette) Linear color calculations.
