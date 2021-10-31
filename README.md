@@ -119,6 +119,11 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 - [flat_spatial](https://docs.rs/crate/flat_spatial/) Simple flat structures such as a grid/hashmap of cells.
 - [acacia](https://docs.rs/crate/acacia/)  Generic over the dimension of the partitioned space and thus supports binary trees, quadtrees, octrees, etc.
 
+## Network
+
+- ⭐ [tokio](https://docs.rs/tokio) Asynchronous TCP and UDP sockets.
+- ⭐ [quinn](https://docs.rs/quinn) QUIC transport protocol implmementation. Built on top of `tokio
+
 ## Audio
 
 - ⭐ [oddio](https://docs.rs/oddio) Built on top of `cpal`.
@@ -126,7 +131,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 - ⭐ [rodio](https://docs.rs/rodio) Built on top of `cpal`.
 - [alto](https://docs.rs/alto) Wrapper for OpenAL.
 - [openal](https://docs.rs/openal) Wrapper for OpenAL.
-- ⭐ [cpal] Low-level cross-platform library for audio input and output.
+- ⭐ [cpal](https://docs.rs/cpal) Low-level cross-platform library for audio input and output.
 
 ## Other utilities
 
