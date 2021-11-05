@@ -1,10 +1,10 @@
-<h1 align="center">Libraries and frameworks for game development in Rust</h1>
+<h1 align="center">Libraries and frameworks for <br>Game Development in Rust</h1>
 
 <p align="center">
   <img src="./community-icon.png">
 </p>
 
-<h1 align="center">Join the <a href="https://discord.gg/yNtPTb2"><u>Game Development in Rust</u></a> Discord server</h1>
+<h2 align="center">Join the <a href="https://discord.gg/yNtPTb2"><u>Game Development in Rust</u></a> Discord server</h2>
 
 This curated list is from the **Game Development in Rust** Discord server and prioritizes libraries and frameworks that have examples and are ready or almost ready for production.
 
