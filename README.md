@@ -40,13 +40,23 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 - [Blender](https://www.blender.org) for 3D modeling.
 - [Krita](https://krita.org/en) for 2D image creation.
 
-## Full-feature or near full-feature game engines
+## Game engines
 
-- [bevy engine](https://bevyengine.org) 2D, 3D. Graphics, audio, UI. ECS/DOD oriented.
-- [macroquad](https://docs.rs/macroquad) 2D, 3D. Graphics. Inspired on Raylib (C framework).
-- [ggez](https://docs.rs/ggez) 2D. Graphics, audio. Inspired on LÖVE (Lua framework).
-- [tetra](https://docs.rs/tetra) 2D. Graphics, audio. Inspired on XNA and MonoGame.
-- [oxygengine](https://docs.rs/oxygengine) 2D. Graphics, audio.
+### 2D + 3D
+
+Recommended if you are going to work with 3D graphics, however, API changes still might happen in future releases.
+
+- [bevy engine](https://bevyengine.org)
+
+### 2D
+
+Recommended if you are going to work strictly with 2D graphics.
+
+- [emerald](https://docs.rs/emerald)
+- [macroquad](https://docs.rs/macroquad)
+- [ggez](https://docs.rs/ggez)
+- [tetra](https://docs.rs/tetra)
+- [oxygengine](https://docs.rs/oxygengine)
 
 ## Graphics-only
 
