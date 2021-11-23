@@ -10,10 +10,10 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of libraries and frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
-The ⭐ emoji means that the framework is excelent for one of the reasons:
+The ⭐ emoji means that the framework is excellent for one of the reasons:
 
 - Has many followers and maintainers.
-- Might have few followers and maintainers, but is in excelent quality and passed the test of time.
+- Might have few followers and maintainers, but is in excellent quality and passed the test of time.
 - Uses modern standards (compared to peers).
 
 ## Rust basics
@@ -133,7 +133,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 ## Network
 
 - ⭐ [tokio](https://docs.rs/tokio) Asynchronous TCP and UDP sockets.
-- ⭐ [quinn](https://docs.rs/quinn) QUIC transport protocol implmementation. Built on top of `tokio
+- ⭐ [quinn](https://docs.rs/quinn) QUIC transport protocol implementation. Built on top of `tokio`.
 
 ## Audio
 
