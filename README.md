@@ -153,6 +153,9 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Other utilities
 
+- ⭐ [hexasphere](https://docs.rs/hexasphere) Subdivide 3D shapes (icosahedron, tetrahedron, square, triangle, cube) made of triangles.
+- ⭐ [navmesh](https://docs.rs/navmesh/) Navigation mesh path-finder.
+- ⭐ [density-mesh-core](https://docs.rs/density-mesh-core) / [density-mesh-image](https://docs.rs/density-mesh-image) Generate 2D mesh from images representing density/height map.
 - ⭐ [image](https://docs.rs/image) Image encoding and decoding for many image formats.
 - ⭐ [rayon](https://docs.rs/rayon) Introduce parallelism into existing code and guarantees data-race free executions.
 - ⭐ [palette](https://docs.rs/palette) Linear color calculations.
