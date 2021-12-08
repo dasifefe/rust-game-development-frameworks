@@ -69,7 +69,6 @@ Recommended if you are going to work strictly with 2D graphics.
 - [rend3](https://docs.rs/rend3) Easy to use, customizable, efficient 3D renderer library. Built on top of `wgpu`.
 - [luminance](https://docs.rs/luminance) High level. Built on top of OpenGL.
 - [miniquad](https://docs.rs/miniquad) High-level. Focus on portability. Built on top of OpenGL, GLES 3 and WebGl1.
-- [glium](https://docs.rs/glium) Intermediate-level. Safer wrapper for OpenGL 3+.
 - [golem](https://docs.rs/golem) Intermediate-level. Higher level wrapper built on glow.
 - [vulkano](https://docs.rs/vulkano) Intermediate-level. Safer wrapper for Vulkan.
 - [glow](https://docs.rs/glow) Low-level. Safer wrapper for OpenGL and WebGL.
