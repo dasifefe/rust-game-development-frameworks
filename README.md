@@ -67,6 +67,7 @@ Recommended if you are going to work strictly with 2D graphics.
 - ⭐ [ash](https://docs.rs/ash) Low-level bindings to Vulkan.
 - ⭐ [lyon](https://docs.rs/lyon) GPU-based 2D vector rendering. Built on top of `wgpu`.
 - [rend3](https://docs.rs/rend3) Easy to use, customizable, efficient 3D renderer library. Built on top of `wgpu`.
+- [rafx](https://docs.rs/rafx) Multi-backend renderer that prioritizes performance, flexibility, and productivity.
 - [luminance](https://docs.rs/luminance) High level. Built on top of OpenGL.
 - [miniquad](https://docs.rs/miniquad) High-level. Focus on portability. Built on top of OpenGL, GLES 3 and WebGl1.
 - [golem](https://docs.rs/golem) Intermediate-level. Higher level wrapper built on glow.
