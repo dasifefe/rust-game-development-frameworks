@@ -153,6 +153,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Other utilities
 
+- ⭐ [thunderdome](https://docs.rs/thunderdome) ~~Gladitorial~~ generational arena inspired by generational-arena, slotmap, and slab. It provides constant time insertion, lookup, and removal via small keys returned from `Arena`.
 - ⭐ [hexasphere](https://docs.rs/hexasphere) Subdivide 3D shapes (icosahedron, tetrahedron, square, triangle, cube) made of triangles.
 - ⭐ [navmesh](https://docs.rs/navmesh/) Navigation mesh path-finder.
 - ⭐ [density-mesh-core](https://docs.rs/density-mesh-core) / [density-mesh-image](https://docs.rs/density-mesh-image) Generate 2D mesh from images representing density/height map.
