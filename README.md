@@ -47,7 +47,7 @@ ECS/DOD is quite a big deal in Rust. Here are some resources to understand the b
 Recommended if you are going to work with 3D graphics, however, API changes still might happen in future releases.
 
 - [bevy](https://bevyengine.org) Refreshingly simple data-driven game engine.
-- [rg3d](https://docs.rs/rg3d) Feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor.
+- [fyrox](https://docs.rs/fyrox) Feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as `rg3d`.
 
 ### 2D
 
