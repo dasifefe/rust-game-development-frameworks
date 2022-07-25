@@ -48,6 +48,7 @@ Recommended if you are going to work with 3D graphics, however, API changes stil
 
 - [bevy](https://bevyengine.org) Refreshingly simple data-driven game engine.
 - [fyrox](https://docs.rs/fyrox) Feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as `rg3d`.
+- [hotham](https://docs.rs/hotham) lightweight, high performance game engine for standalone VR headsets.
 
 ### 2D
 
