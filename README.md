@@ -110,6 +110,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Graphical user interface (GUI)
 
+- [yakui](https://github.com/LPGhatguy/yakui) Combines a layout model inspired by Flutter with the ease-of-use of an immediate mode UI library like Dear Imgui or egui.
 - ⭐ [egui](https://docs.rs/egui/) Pure Rust cross-platform library. Many renderers already have an integration with `Egui`.
 - ⭐ [iced](https://docs.rs/iced/) Pure Rust cross-platform library.
 - [imgui](https://docs.rs/imgui/) Bindings in Rust for the Dear ImGui C++ library.
