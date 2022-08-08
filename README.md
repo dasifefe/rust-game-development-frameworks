@@ -152,6 +152,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 - ⭐ [serde](https://docs.rs/serde) Serialize and deserialize data structures efficiently and generically.
 - ⭐ [serde-json](https://crates.io/crates/serde_json) Serialize and deserialize for **JSON format**. Built on top of `serde`.
 - ⭐ [bincode](https://crates.io/crates/bincode) Serialize and deserialize for **binary format**. Built on top of `serde`.
+- ⭐ [borsh](https://docs.rs/borsh) Implementation of the Borsh (Binary Object Representation Serializer for Hashing) binary serialization format. It is meant to be used in security-critical projects as it prioritizes consistency, safety, speed, and comes with a strict specification.
 
 ## Other utilities
 
