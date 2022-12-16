@@ -10,12 +10,6 @@ This curated list is from the **Game Development in Rust** Discord server and pr
 
 For a longer list of libraries and frameworks, see [Are We Game Yet?](https://arewegameyet.rs).
 
-The ⭐ emoji means that the framework is excellent for one of the reasons:
-
-- Has many followers and maintainers.
-- Might have few followers and maintainers, but is in excellent quality and passed the test of time.
-- Uses modern standards (compared to peers).
-
 ## Rust basics
 
 - [Rust book](https://doc.rust-lang.org/book/).
