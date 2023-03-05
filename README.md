@@ -145,6 +145,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Serialization-Deserialization
 
+- [redb](https://docs.rs/redb) Embedded key-value database in pure Rust.
 - [speedy](https://docs.rs/speedy) Fast, simple and easy binary serialization.
 - [serde](https://docs.rs/serde) Serialize and deserialize data structures efficiently and generically.
 - [serde-json](https://crates.io/crates/serde_json) Serialize and deserialize for **JSON format**. Built on top of `serde`.
