@@ -55,6 +55,10 @@ Recommended if you are going to work strictly with 2D graphics.
 - [tetra](https://docs.rs/tetra)
 - [oxygengine](https://docs.rs/oxygengine)
 
+## Open-Source Games
+
+Some open-source games made in Rust:
+
 ## Graphics-only
 
 - [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
