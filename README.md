@@ -63,6 +63,7 @@ Some open-source games made in Rust:
 - [RustCycles](https://github.com/rustcycles/rustcycles) A third person arena shooter that's about movement, not aim. You have to be smart and think fast.
 - [Station Iapetus](https://github.com/mrDIMAS/StationIapetus) A third person shooter where you play as a task force agent on a space prison near Saturn's satellite Iapetus.
 - [Flamegrower](https://github.com/m0lentum/flamegrower) Flamegrower is a 2D platformer revolving around physically simulated vines. In a solarpunk-inspired eco-futuristic world threatened by an invasive alien plant species, you control an android gardener tasked with killing it with fire.
+- [Digital Extinction](https://github.com/DigitalExtinction/Game) A 3D real-time strategy (RTS) game set in the near future when humans and AI fight over their existence.
 
 ## Graphics-only
 
