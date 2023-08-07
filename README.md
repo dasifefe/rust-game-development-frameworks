@@ -99,7 +99,13 @@ I believe it is fair to say that if you use libraries built on top of WGPU, you 
 - [fermium](https://docs.rs/fermium) Rust wrapper for the C SDL2 library. Contains more than window creation features.
 - [sdl2](https://docs.rs/sdl2) Rust wrapper for the C SDL2 library. Contains more than window creation features.
 
-## Frameworks for ECS
+## Frameworks for generational-arena (containers for entities and other objects)
+
+- [thunderdome](https://docs.rs/thunderdome) Generational arena inspired by generational-arena, slotmap, and slab. It provides constant time insertion, lookup, and removal via small keys returned from `Arena`.
+- [slotmap](https://docs.rs/slotmap) Container with persistent unique keys to access stored values.
+- [generational-arena](https://docs.rs/generational-arena) A safe arena allocator that allows deletion without suffering from the [ABA problem](https://en.wikipedia.org/wiki/ABA_problem) by using generational indices.
+
+## Frameworks for ECS (containers for entities and other objects)
 
 - [hecs](https://docs.rs/hecs) Archetype-based.
 - [yaks](https://docs.rs/yaks) Add multi-threading to `hecs`.
@@ -168,7 +174,6 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Other utilities
 
-- [thunderdome](https://docs.rs/thunderdome) ~~Gladitorial~~ generational arena inspired by generational-arena, slotmap, and slab. It provides constant time insertion, lookup, and removal via small keys returned from `Arena`.
 - [hexasphere](https://docs.rs/hexasphere) Subdivide 3D shapes (icosahedron, tetrahedron, square, triangle, cube) made of triangles.
 - [navmesh](https://docs.rs/navmesh/) Navigation mesh path-finder.
 - [density-mesh-core](https://docs.rs/density-mesh-core) / [density-mesh-image](https://docs.rs/density-mesh-image) Generate 2D mesh from images representing density/height map.
