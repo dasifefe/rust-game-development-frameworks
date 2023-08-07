@@ -62,6 +62,8 @@ Some open-source games made in Rust:
 - [RecWars](https://github.com/martin-t/rec-wars) A multiplayer top-down tank shooter. Already has some basic gameplay and a playable browser version.
 - [RustCycles](https://github.com/rustcycles/rustcycles) A third person arena shooter that's about movement, not aim. You have to be smart and think fast.
   - State of development: *This is just barely a prototype. There's no real gameplay yet, just the engine's default physics and some primitive networking.*
+- [Station Iapetus](https://github.com/mrDIMAS/StationIapetus) A third person shooter where you play as a task force agent on a space prison near Saturn's satellite Iapetus.
+  - State of development: *In the very early development phase.*
 
 ## Graphics-only
 
