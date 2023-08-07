@@ -65,6 +65,9 @@ Some open-source games made in Rust:
 - [Flamegrower](https://github.com/m0lentum/flamegrower) Flamegrower is a 2D platformer revolving around physically simulated vines. In a solarpunk-inspired eco-futuristic world threatened by an invasive alien plant species, you control an android gardener tasked with killing it with fire.
 - [Digital Extinction](https://github.com/DigitalExtinction/Game) A 3D real-time strategy (RTS) game set in the near future when humans and AI fight over their existence.
 - [Oort](https://github.com/rlane/oort3) A space fleet programming game.
+- [One-Man-ggj21](https://github.com/Im-Oab/One-Man-ggj21) A 2D side scrolling shmup game for Global Game Jam 2021. It has 1 level and 3 enemy types.
+- [Egregoria](https://github.com/Uriopass/Egregoria) An indie city builder, where each individual has its own thought model, meaning every action has its importance and influences the environment.
+Egregoria is focused on the socio-economical aspect of a city, with a logistics element.
 
 ## Graphics-only
 
