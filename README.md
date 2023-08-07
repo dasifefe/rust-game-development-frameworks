@@ -59,6 +59,8 @@ Recommended if you are going to work strictly with 2D graphics.
 
 Some open-source games made in Rust:
 
+- [RecWars](https://github.com/martin-t/rec-wars) A multiplayer top-down tank shooter. Already has some basic gameplay and a playable browser version.
+
 ## Graphics-only
 
 - [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
