@@ -64,6 +64,7 @@ Some open-source games made in Rust:
   - State of development: *This is just barely a prototype. There's no real gameplay yet, just the engine's default physics and some primitive networking.*
 - [Station Iapetus](https://github.com/mrDIMAS/StationIapetus) A third person shooter where you play as a task force agent on a space prison near Saturn's satellite Iapetus.
   - State of development: *In the very early development phase.*
+- [Flamegrower](https://github.com/m0lentum/flamegrower) Flamegrower is a 2D platformer revolving around physically simulated vines. In a solarpunk-inspired eco-futuristic world threatened by an invasive alien plant species, you control an android gardener tasked with killing it with fire. 
 
 ## Graphics-only
 
