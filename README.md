@@ -68,7 +68,7 @@ Some open-source games made in Rust:
 - [One-Man-ggj21](https://github.com/Im-Oab/One-Man-ggj21) A 2D side scrolling shmup game for Global Game Jam 2021. It has 1 level and 3 enemy types.
 - [Egregoria](https://github.com/Uriopass/Egregoria) An indie city builder, where each individual has its own thought model, meaning every action has its importance and influences the environment.
 Egregoria is focused on the socio-economical aspect of a city, with a logistics element.
-- [Automancy](https://github.com/sorcerers-class/automancy) A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
+- [automancy](https://github.com/sorcerers-class/automancy) A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
 
 ## Graphics-only
 
