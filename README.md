@@ -69,6 +69,7 @@ Some open-source games made in Rust:
 - [Egregoria](https://github.com/Uriopass/Egregoria) An indie city builder, where each individual has its own thought model, meaning every action has its importance and influences the environment.
 Egregoria is focused on the socio-economical aspect of a city, with a logistics element.
 - [automancy](https://github.com/sorcerers-class/automancy) A game about Automation, themed around Magic, based on Hexagons, and -- there's no Conveyor Belts.
+- [Mage Rush](https://github.com/schweller/vs-demake-lowrezjam2023) A very tiny vampire-survivors-like open-source game (playable: [iinacho.itch.io/mage-rush](https://iinacho.itch.io/mage-rush)).
 
 ## Graphics-only
 
