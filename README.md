@@ -72,6 +72,7 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [Mage Rush](https://github.com/schweller/vs-demake-lowrezjam2023) A very tiny vampire-survivors-like open-source game (playable: [iinacho.itch.io/mage-rush](https://iinacho.itch.io/mage-rush)).
 - [Sandbox](https://github.com/JMS55/sandbox) A sand simulation game.
 - [As the Wind Blows](https://github.com/ucsd-cse125-sp23/group-5) Set in a world of floating sky islands, this immersive battle game invites you and your friends to enjoy together.
+- [Just Join (来噻)](https://github.com/zzhgithub/just_join_v2) Voxel multiplayer game.
 
 ## Graphics-only
 
