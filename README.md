@@ -75,6 +75,7 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [Just Join (来噻)](https://github.com/zzhgithub/just_join_v2) Voxel multiplayer game.
 - [Veloren](https://veloren.net) Multiplayer voxel RPG inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 - [Hypermine](https://github.com/Ralith/hypermine) An experiment in 3D hyperbolic space, with multiplayer, infinite procedural terrain, and voxel editing. It is very easy to get lost.
+- [qffp](https://github.com/junelva/qffp) Queer folk farmpunk: farming on the moon demonstrates the possibility of creating animated pixel art games that run in a terminal.
 
 ## Graphics-only
 
