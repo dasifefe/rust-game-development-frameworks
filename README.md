@@ -79,6 +79,7 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
  -[Space Frontiers](https://github.com/starwolves/space) online community multiplayer game that seeks to support a galaxy consisting of multiple sectors and spaceships. Active cooperative and PVP gameplay takes place in and around manned spaceships together with a foundation of Role-Playing-Game features.
 - [Qwy3](https://github.com/anima-libera/qwy3) Wanna-be Minecraft-like in Rust using Wgpu, very early stage.
 - [Zombie Shooter Game](https://github.com/aunmag/shooter-rs) Inspired by Crimsonland: eliminate hordes of zombies that relentlessly chase after you.
+- [ROOM - Rusty Doom](https://gitlab.com/flukejones/room4doom) Rewrite of Doom C in Rust. Where possible, the Doom behaviour is kept intact, while also making some improvements.
 
 ## Graphics-only
 
