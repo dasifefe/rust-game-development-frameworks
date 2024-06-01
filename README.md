@@ -78,7 +78,8 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [qffp](https://github.com/junelva/qffp) Queer folk farmpunk: farming on the moon demonstrates the possibility of creating animated pixel art games that run in a terminal.
  -[Space Frontiers](https://github.com/starwolves/space) online community multiplayer game that seeks to support a galaxy consisting of multiple sectors and spaceships. Active cooperative and PVP gameplay takes place in and around manned spaceships together with a foundation of Role-Playing-Game features.
 - [Qwy3](https://github.com/anima-libera/qwy3) Wanna-be Minecraft-like in Rust using Wgpu, very early stage.
-  
+- [Zombie Shooter Game](https://github.com/aunmag/shooter-rs) Inspired by Crimsonland: eliminate hordes of zombies that relentlessly chase after you.
+
 ## Graphics-only
 
 - [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
