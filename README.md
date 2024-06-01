@@ -82,6 +82,7 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [ROOM - Rusty Doom](https://gitlab.com/flukejones/room4doom) Rewrite of Doom C in Rust. Where possible, the Doom behaviour is kept intact, while also making some improvements.
 - [Stellar Bit](https://github.com/stellar-bit)
 - [mirr/orb](https://github.com/Syn-Nine/mirrorb) Laser bouncing puzzle game made in Rust.
+- [FlappyTetra](https://github.com/foxloveseat/FlappyTetra) Game about a fish that has to jump through seaweed.
 
 ## Graphics-only
 
