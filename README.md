@@ -180,6 +180,7 @@ See [this repository](https://github.com/SanderMertens/ecs-faq#what-are-the-diff
 
 ## Serialization-Deserialization
 
+- [fjall]([https://docs.rs/redb](https://github.com/fjall-rs/fjall)) Embedded key-value database in pure Rust.
 - [redb](https://docs.rs/redb) Embedded key-value database in pure Rust.
 - [speedy](https://docs.rs/speedy) Fast, simple and easy binary serialization.
 - [serde](https://docs.rs/serde) Serialize and deserialize data structures efficiently and generically.
