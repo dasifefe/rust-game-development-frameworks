@@ -85,6 +85,8 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [FlappyTetra](https://github.com/foxloveseat/FlappyTetra) Game about a fish that has to jump through seaweed.
 - [velgi](https://github.com/m0lentum/velgi) Clone of the first level of Velgress from UFO 50, made for [Eggjam #24](https://itch.io/jam/eggjam-24).
 - [astray](https://github.com/vinermy/astray) TUI-based space strategy game.
+- [moba](https://github.com/OrnitOnGithub/moba) A Multiplayer Online Battle Arena game.
+
 ## Graphics-only
 
 - [wgpu](https://docs.rs/wgpu) Cross-platform, safe, pure-rust graphics api (Vulkan, Metal, D3D12, D3D11, OpenGLES, WebGPU).
