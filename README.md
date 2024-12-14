@@ -83,6 +83,7 @@ Egregoria is focused on the socio-economical aspect of a city, with a logistics 
 - [Stellar Bit](https://github.com/stellar-bit)
 - [mirr/orb](https://github.com/Syn-Nine/mirrorb) Laser bouncing puzzle game made in Rust.
 - [FlappyTetra](https://github.com/foxloveseat/FlappyTetra) Game about a fish that has to jump through seaweed.
+- [velgi](https://github.com/m0lentum/velgi) Clone of the first level of Velgress from UFO 50, made for [Eggjam #24](https://itch.io/jam/eggjam-24).
 
 ## Graphics-only
 
