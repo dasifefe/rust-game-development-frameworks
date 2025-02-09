@@ -53,6 +53,7 @@ Recommended if you are going to work strictly with 2D graphics.
 - [macroquad](https://docs.rs/macroquad)
 - [ggez](https://docs.rs/ggez)
 - [tetra](https://docs.rs/tetra)
+- [nova](https://github.com/17cupsofcoffee/nova) - Spiritual successor to Tetra in development.
 - [oxygengine](https://docs.rs/oxygengine)
 
 ## Open-Source Games
